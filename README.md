@@ -1,4 +1,5 @@
 # Class Members
+Maricruz
 
 ## Instructor
 
